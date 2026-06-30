@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about software development, Artific
 - 🌱 Currently learning **React, Redux, Git, GitHub, Python, Java, and Machine Learning**
 - 💻 Interested in **Web Development, AI, and Data Science**
 - 🔭 Working on **Hospital Management System** and **AI Face Detection Attendance System**
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **chandanghosh8340@gmail.com**
 - ⚡ Fun fact: I enjoy solving coding problems and learning new technologies.
 
 ---
@@ -72,7 +72,7 @@ Machine Learning dashboard for predicting equipment failures.
 
 - GitHub: https://github.com/Chandanghosh82
 - LinkedIn: Add your LinkedIn profile
-- Email: your-email@example.com
+- Email: your-chandanghosh8340@gmail.com
 
 ---
 
